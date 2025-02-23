@@ -1,1 +1,1 @@
-# EDA-Lab-Assignment
+This repository contains Jupyter Notebook implementations for various Exploratory Data Analysis (EDA) techniques. The notebooks cover tasks such as Principal Component Analysis (PCA), Linear Discriminant Analysis (LDA), and Singular Value Decomposition (SVD), with a focus on understanding data structure and dimensionality. The assignments involve analyzing datasets such as stock returns and leukemia data to demonstrate practical applications of these methods for data visualization, feature extraction, and data reduction.
